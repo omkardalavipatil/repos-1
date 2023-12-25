@@ -1,3 +1,3 @@
 # repos-1
 this is my first repository
-Author-Omkar Dalavi
+Author-Omkar Dalavi(SKNCOE)
